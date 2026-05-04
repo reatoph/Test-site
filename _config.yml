@@ -1,9 +1,0 @@
-title: My Awesome Site
-description: A simple homepage
-url: https://reatoph.github.io/Test-site
-
-# For GitHub Pages
-remote_theme: jekyll/minima
-
-plugins:
-  - jekyll-feed
